@@ -110,7 +110,6 @@ dmypy.json
 !.vscode/launch.json
 !.vscode/extensions.json
 
-*.gif
 3d_heat_eq.py
 
 ### VisualStudioCode Patch ###
