@@ -23,7 +23,7 @@ $$u(0, W, t) = 0$$
 ### Initial Conditions
 
 <p>
-$$u(x,0) = 100.000, L/2 - dx\le x \le \L/2 %2B dx, W/2 - dy\le y \le \W/2 %2B dy$$
+$$u(x,0) = 100.000, L/2 - dx\le x \le L/2 %2B dx, W/2 - dy\le y \le \W/2 %2B dy$$
 </p>
 <p>
 $$\left.\frac{\partial u}{\partial t}\right|_{t = 0} = 0$$
